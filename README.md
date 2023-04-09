@@ -1,4 +1,4 @@
-# MachineLearning
+# machine-learning
 
 This is my personal repository to house all my code as I delve into machine learning.
 
